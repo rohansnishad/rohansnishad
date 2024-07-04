@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Rohan Nishad</h1>
 <h3 align="center">A passionate Android developer</h3>
 <div align="center">
-- 🌱 I’m currently learning **Flutter**
-- 💬 Ask me about **Android Development**
-- 📫 How to reach me **rohannishad704@gmail.com**
+- 🌱 I’m currently learning Flutter
+- 💬 Ask me about Android Development
+- 📫 How to reach me rohannishad704@gmail.com
 
 </div>
 <br>
